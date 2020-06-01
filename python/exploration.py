@@ -26,8 +26,9 @@ mpl.rcParams['xtick.labelsize'] = 6
 mpl.rcParams['ytick.labelsize'] = 6
 mpl.rcParams['lines.markersize'] = 5
 
-data_dir = opj(cwd, 'SB_Archive', 'ancillary', 'optimization', 'output', 'output_scenario_1')
-s1_result = pd.read_csv(opj(data_dir, 'result.csv'))
+data_dir = opj(cwd, 'sb_opt_rsch', 'source_data')
+file_name = 'scenario1_result.csv'
+s1_result = pd.read_csv(opj(data_dir, file_name))
 s1_data = s1_result.iloc[:, :440]
 s1_pca = PCA().fit(s1_data.values)
 #
