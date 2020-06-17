@@ -1,0 +1,565 @@
+Importance of components:
+                             PC1       PC2
+Standard deviation     1.838e+04 1.314e+03
+Proportion of Variance 9.128e-01 4.670e-03
+                             PC3       PC4
+Standard deviation     1.014e+03 933.04109
+Proportion of Variance 2.780e-03   0.00235
+                             PC5       PC6
+Standard deviation     866.84085 852.30146
+Proportion of Variance   0.00203   0.00196
+                             PC7      PC8
+Standard deviation     796.40338 792.8742
+Proportion of Variance   0.00171   0.0017
+                             PC9      PC10
+Standard deviation     760.81963 747.71349
+Proportion of Variance   0.00156   0.00151
+                            PC11      PC12
+Standard deviation     736.85427 729.36766
+Proportion of Variance   0.00147   0.00144
+                            PC13      PC14
+Standard deviation     713.55034 708.43112
+Proportion of Variance   0.00138   0.00136
+                            PC15      PC16
+Standard deviation     696.35372 675.88789
+Proportion of Variance   0.00131   0.00123
+                            PC17      PC18
+Standard deviation     660.87027 655.21499
+Proportion of Variance   0.00118   0.00116
+                            PC19      PC20
+Standard deviation     636.03292 626.67319
+Proportion of Variance   0.00109   0.00106
+                            PC21      PC22
+Standard deviation     621.22875 601.28205
+Proportion of Variance   0.00104   0.00098
+                            PC23      PC24
+Standard deviation     596.33519 593.68655
+Proportion of Variance   0.00096   0.00095
+                            PC25      PC26
+Standard deviation     588.88541 579.34001
+Proportion of Variance   0.00094   0.00091
+                            PC27      PC28
+Standard deviation     574.53930 560.34239
+Proportion of Variance   0.00089   0.00085
+                            PC29      PC30
+Standard deviation     555.23423 545.95834
+Proportion of Variance   0.00083   0.00081
+                            PC31      PC32
+Standard deviation     539.19527 532.24965
+Proportion of Variance   0.00079   0.00077
+                            PC33      PC34
+Standard deviation     523.23208 517.92507
+Proportion of Variance   0.00074   0.00073
+                            PC35      PC36
+Standard deviation     505.47907 500.05398
+Proportion of Variance   0.00069   0.00068
+                            PC37      PC38
+Standard deviation     497.50492 488.36561
+Proportion of Variance   0.00067   0.00064
+                            PC39      PC40
+Standard deviation     485.80298 477.00078
+Proportion of Variance   0.00064   0.00061
+                           PC41     PC42
+Standard deviation     472.3753 469.7253
+Proportion of Variance   0.0006   0.0006
+                            PC43      PC44
+Standard deviation     460.18738 457.66981
+Proportion of Variance   0.00057   0.00057
+                            PC45      PC46
+Standard deviation     452.83395 445.69812
+Proportion of Variance   0.00055   0.00054
+                            PC47      PC48
+Standard deviation     440.47218 439.75902
+Proportion of Variance   0.00052   0.00052
+                            PC49     PC50
+Standard deviation     433.11096 429.2581
+Proportion of Variance   0.00051   0.0005
+                            PC51      PC52
+Standard deviation     424.75295 423.75851
+Proportion of Variance   0.00049   0.00049
+                            PC53      PC54
+Standard deviation     416.25623 409.70124
+Proportion of Variance   0.00047   0.00045
+                            PC55      PC56
+Standard deviation     407.43825 404.03879
+Proportion of Variance   0.00045   0.00044
+                            PC57      PC58
+Standard deviation     402.31239 396.70056
+Proportion of Variance   0.00044   0.00043
+                            PC59      PC60
+Standard deviation     395.10127 391.47874
+Proportion of Variance   0.00042   0.00041
+                            PC61     PC62
+Standard deviation     388.90140 382.5095
+Proportion of Variance   0.00041   0.0004
+                            PC63      PC64
+Standard deviation     380.71119 379.87800
+Proportion of Variance   0.00039   0.00039
+                            PC65      PC66
+Standard deviation     376.55707 371.83035
+Proportion of Variance   0.00038   0.00037
+                            PC67      PC68
+Standard deviation     371.22420 366.36344
+Proportion of Variance   0.00037   0.00036
+                            PC69      PC70
+Standard deviation     361.50993 358.40330
+Proportion of Variance   0.00035   0.00035
+                            PC71      PC72
+Standard deviation     355.15082 351.80581
+Proportion of Variance   0.00034   0.00033
+                            PC73      PC74
+Standard deviation     350.47218 349.67794
+Proportion of Variance   0.00033   0.00033
+                            PC75      PC76
+Standard deviation     347.54129 343.63223
+Proportion of Variance   0.00033   0.00032
+                            PC77      PC78
+Standard deviation     338.07710 336.04311
+Proportion of Variance   0.00031   0.00031
+                           PC79     PC80     PC81
+Standard deviation     332.8718 331.5159 330.4365
+Proportion of Variance   0.0003   0.0003   0.0003
+                            PC82      PC83
+Standard deviation     327.16691 325.03906
+Proportion of Variance   0.00029   0.00029
+                            PC84      PC85
+Standard deviation     322.95321 318.63802
+Proportion of Variance   0.00028   0.00027
+                            PC86      PC87
+Standard deviation     318.57047 315.94448
+Proportion of Variance   0.00027   0.00027
+                            PC88      PC89
+Standard deviation     312.05044 310.70135
+Proportion of Variance   0.00026   0.00026
+                            PC90      PC91
+Standard deviation     307.70476 304.73862
+Proportion of Variance   0.00026   0.00025
+                            PC92      PC93
+Standard deviation     303.05126 302.14031
+Proportion of Variance   0.00025   0.00025
+                            PC94      PC95
+Standard deviation     299.21269 298.03625
+Proportion of Variance   0.00024   0.00024
+                            PC96      PC97
+Standard deviation     295.18073 294.45100
+Proportion of Variance   0.00024   0.00023
+                            PC98      PC99
+Standard deviation     291.68214 287.92791
+Proportion of Variance   0.00023   0.00022
+                           PC100     PC101
+Standard deviation     285.81807 285.02583
+Proportion of Variance   0.00022   0.00022
+                           PC102     PC103
+Standard deviation     281.66487 279.11172
+Proportion of Variance   0.00021   0.00021
+                           PC104     PC105
+Standard deviation     277.78680 276.76218
+Proportion of Variance   0.00021   0.00021
+                          PC106    PC107    PC108
+Standard deviation     275.2999 273.0193 269.1837
+Proportion of Variance   0.0002   0.0002   0.0002
+                           PC109     PC110
+Standard deviation     267.62449 265.29117
+Proportion of Variance   0.00019   0.00019
+                           PC111     PC112
+Standard deviation     263.18951 261.02375
+Proportion of Variance   0.00019   0.00018
+                           PC113     PC114
+Standard deviation     259.50391 257.33645
+Proportion of Variance   0.00018   0.00018
+                           PC115     PC116
+Standard deviation     255.12579 253.34765
+Proportion of Variance   0.00018   0.00017
+                           PC117     PC118
+Standard deviation     252.72208 251.80518
+Proportion of Variance   0.00017   0.00017
+                           PC119     PC120
+Standard deviation     250.47175 249.33811
+Proportion of Variance   0.00017   0.00017
+                           PC121     PC122
+Standard deviation     247.43048 245.31145
+Proportion of Variance   0.00017   0.00016
+                           PC123     PC124
+Standard deviation     244.42715 242.54044
+Proportion of Variance   0.00016   0.00016
+                           PC125     PC126
+Standard deviation     239.95759 236.39947
+Proportion of Variance   0.00016   0.00015
+                           PC127     PC128
+Standard deviation     235.81280 234.76425
+Proportion of Variance   0.00015   0.00015
+                           PC129     PC130
+Standard deviation     232.77457 230.52742
+Proportion of Variance   0.00015   0.00014
+                           PC131     PC132
+Standard deviation     229.49584 227.62108
+Proportion of Variance   0.00014   0.00014
+                           PC133     PC134
+Standard deviation     226.14546 225.02597
+Proportion of Variance   0.00014   0.00014
+                           PC135     PC136
+Standard deviation     222.29923 222.07849
+Proportion of Variance   0.00013   0.00013
+                           PC137     PC138
+Standard deviation     221.34980 218.49706
+Proportion of Variance   0.00013   0.00013
+                           PC139     PC140
+Standard deviation     217.77326 215.61188
+Proportion of Variance   0.00013   0.00013
+                           PC141     PC142
+Standard deviation     214.74495 213.81990
+Proportion of Variance   0.00012   0.00012
+                           PC143     PC144
+Standard deviation     212.12625 211.16051
+Proportion of Variance   0.00012   0.00012
+                           PC145     PC146
+Standard deviation     209.67804 207.12283
+Proportion of Variance   0.00012   0.00012
+                           PC147     PC148
+Standard deviation     206.04997 205.71775
+Proportion of Variance   0.00011   0.00011
+                           PC149     PC150
+Standard deviation     204.25406 202.84106
+Proportion of Variance   0.00011   0.00011
+                           PC151     PC152
+Standard deviation     202.56731 200.71370
+Proportion of Variance   0.00011   0.00011
+                           PC153     PC154
+Standard deviation     199.49608 197.54739
+Proportion of Variance   0.00011   0.00011
+                          PC155    PC156    PC157
+Standard deviation     195.9220 194.2749 192.4379
+Proportion of Variance   0.0001   0.0001   0.0001
+                          PC158    PC159    PC160
+Standard deviation     191.5996 190.0399 189.3469
+Proportion of Variance   0.0001   0.0001   0.0001
+                          PC161    PC162
+Standard deviation     187.8911 187.5457
+Proportion of Variance   0.0001   0.0001
+                           PC163     PC164
+Standard deviation     186.97559 186.09078
+Proportion of Variance   0.00009   0.00009
+                           PC165     PC166
+Standard deviation     183.67586 181.76566
+Proportion of Variance   0.00009   0.00009
+                           PC167     PC168
+Standard deviation     180.72022 179.68241
+Proportion of Variance   0.00009   0.00009
+                           PC169     PC170
+Standard deviation     179.19546 178.94651
+Proportion of Variance   0.00009   0.00009
+                           PC171     PC172
+Standard deviation     177.53485 176.34990
+Proportion of Variance   0.00009   0.00008
+                           PC173     PC174
+Standard deviation     174.61973 173.65092
+Proportion of Variance   0.00008   0.00008
+                           PC175     PC176
+Standard deviation     172.97263 171.36298
+Proportion of Variance   0.00008   0.00008
+                           PC177     PC178
+Standard deviation     170.84409 169.55771
+Proportion of Variance   0.00008   0.00008
+                           PC179     PC180
+Standard deviation     168.74818 167.45922
+Proportion of Variance   0.00008   0.00008
+                           PC181     PC182
+Standard deviation     165.86888 164.50989
+Proportion of Variance   0.00007   0.00007
+                           PC183     PC184
+Standard deviation     163.32332 162.82023
+Proportion of Variance   0.00007   0.00007
+                           PC185     PC186
+Standard deviation     161.03789 160.39882
+Proportion of Variance   0.00007   0.00007
+                          PC187     PC188
+Standard deviation     1.59e+02 158.60180
+Proportion of Variance 7.00e-05   0.00007
+                           PC189     PC190
+Standard deviation     158.09959 156.82450
+Proportion of Variance   0.00007   0.00007
+                           PC191     PC192
+Standard deviation     155.18580 154.44921
+Proportion of Variance   0.00007   0.00006
+                           PC193     PC194
+Standard deviation     154.25130 153.07029
+Proportion of Variance   0.00006   0.00006
+                           PC195     PC196
+Standard deviation     152.13376 150.49344
+Proportion of Variance   0.00006   0.00006
+                           PC197     PC198
+Standard deviation     150.19105 149.56271
+Proportion of Variance   0.00006   0.00006
+                           PC199     PC200
+Standard deviation     148.73965 147.63877
+Proportion of Variance   0.00006   0.00006
+                           PC201     PC202
+Standard deviation     146.64923 144.92529
+Proportion of Variance   0.00006   0.00006
+                           PC203     PC204
+Standard deviation     143.90992 143.59135
+Proportion of Variance   0.00006   0.00006
+                           PC205     PC206
+Standard deviation     142.73300 141.31966
+Proportion of Variance   0.00006   0.00005
+                           PC207     PC208
+Standard deviation     140.97764 140.30721
+Proportion of Variance   0.00005   0.00005
+                           PC209     PC210
+Standard deviation     138.24725 138.18528
+Proportion of Variance   0.00005   0.00005
+                           PC211     PC212
+Standard deviation     137.55382 136.84809
+Proportion of Variance   0.00005   0.00005
+                           PC213     PC214
+Standard deviation     136.07471 135.13957
+Proportion of Variance   0.00005   0.00005
+                           PC215     PC216
+Standard deviation     134.72535 133.33868
+Proportion of Variance   0.00005   0.00005
+                           PC217     PC218
+Standard deviation     132.81605 131.77132
+Proportion of Variance   0.00005   0.00005
+                           PC219     PC220
+Standard deviation     130.72643 130.57225
+Proportion of Variance   0.00005   0.00005
+                           PC221     PC222
+Standard deviation     129.74605 128.20036
+Proportion of Variance   0.00005   0.00004
+                           PC223     PC224
+Standard deviation     127.55735 126.06751
+Proportion of Variance   0.00004   0.00004
+                           PC225     PC226
+Standard deviation     125.69678 125.59877
+Proportion of Variance   0.00004   0.00004
+                           PC227     PC228
+Standard deviation     124.97827 123.87442
+Proportion of Variance   0.00004   0.00004
+                           PC229     PC230
+Standard deviation     122.68243 122.61854
+Proportion of Variance   0.00004   0.00004
+                           PC231     PC232
+Standard deviation     121.53456 120.10231
+Proportion of Variance   0.00004   0.00004
+                           PC233     PC234
+Standard deviation     119.99858 119.20875
+Proportion of Variance   0.00004   0.00004
+                           PC235     PC236
+Standard deviation     118.60324 117.23777
+Proportion of Variance   0.00004   0.00004
+                           PC237     PC238
+Standard deviation     116.64950 115.69007
+Proportion of Variance   0.00004   0.00004
+                           PC239     PC240
+Standard deviation     114.83801 114.50605
+Proportion of Variance   0.00004   0.00004
+                           PC241     PC242
+Standard deviation     113.79580 113.45038
+Proportion of Variance   0.00004   0.00003
+                           PC243     PC244
+Standard deviation     112.75946 112.08139
+Proportion of Variance   0.00003   0.00003
+                           PC245     PC246
+Standard deviation     111.30831 110.79319
+Proportion of Variance   0.00003   0.00003
+                           PC247     PC248
+Standard deviation     110.21446 109.32894
+Proportion of Variance   0.00003   0.00003
+                           PC249     PC250
+Standard deviation     108.66523 107.86474
+Proportion of Variance   0.00003   0.00003
+                           PC251     PC252
+Standard deviation     107.15167 106.29448
+Proportion of Variance   0.00003   0.00003
+                           PC253     PC254
+Standard deviation     105.40434 104.37781
+Proportion of Variance   0.00003   0.00003
+                           PC255     PC256
+Standard deviation     103.91705 103.73680
+Proportion of Variance   0.00003   0.00003
+                           PC257     PC258
+Standard deviation     102.23620 102.13059
+Proportion of Variance   0.00003   0.00003
+                           PC259     PC260
+Standard deviation     101.23767 100.86473
+Proportion of Variance   0.00003   0.00003
+                           PC261    PC262
+Standard deviation     100.19903 99.67626
+Proportion of Variance   0.00003  0.00003
+                          PC263    PC264    PC265
+Standard deviation     99.15186 98.46924 98.24782
+Proportion of Variance  0.00003  0.00003  0.00003
+                          PC266    PC267    PC268
+Standard deviation     97.50178 97.36307 95.84081
+Proportion of Variance  0.00003  0.00003  0.00002
+                          PC269    PC270    PC271
+Standard deviation     95.39969 94.45804 93.90589
+Proportion of Variance  0.00002  0.00002  0.00002
+                          PC272    PC273    PC274
+Standard deviation     93.10632 92.65254 92.61577
+Proportion of Variance  0.00002  0.00002  0.00002
+                          PC275    PC276    PC277
+Standard deviation     92.28695 90.59973 90.02889
+Proportion of Variance  0.00002  0.00002  0.00002
+                          PC278    PC279    PC280
+Standard deviation     89.85387 89.31347 88.48255
+Proportion of Variance  0.00002  0.00002  0.00002
+                          PC281    PC282    PC283
+Standard deviation     87.98274 87.54705 86.83305
+Proportion of Variance  0.00002  0.00002  0.00002
+                          PC284    PC285    PC286
+Standard deviation     86.10883 85.64439 85.19273
+Proportion of Variance  0.00002  0.00002  0.00002
+                          PC287    PC288    PC289
+Standard deviation     84.87981 83.91285 83.22771
+Proportion of Variance  0.00002  0.00002  0.00002
+                          PC290    PC291    PC292
+Standard deviation     82.90666 82.44561 82.06961
+Proportion of Variance  0.00002  0.00002  0.00002
+                          PC293    PC294    PC295
+Standard deviation     81.66955 81.19860 80.47412
+Proportion of Variance  0.00002  0.00002  0.00002
+                          PC296    PC297    PC298
+Standard deviation     80.05979 79.44034 78.57623
+Proportion of Variance  0.00002  0.00002  0.00002
+                          PC299    PC300    PC301
+Standard deviation     78.09545 77.70761 77.14724
+Proportion of Variance  0.00002  0.00002  0.00002
+                          PC302    PC303    PC304
+Standard deviation     76.52091 76.01494 74.94516
+Proportion of Variance  0.00002  0.00002  0.00002
+                          PC305    PC306    PC307
+Standard deviation     74.72854 74.39326 73.82170
+Proportion of Variance  0.00002  0.00001  0.00001
+                          PC308    PC309    PC310
+Standard deviation     73.06247 72.54003 72.32426
+Proportion of Variance  0.00001  0.00001  0.00001
+                          PC311    PC312    PC313
+Standard deviation     71.90803 70.99229 70.87538
+Proportion of Variance  0.00001  0.00001  0.00001
+                          PC314    PC315    PC316
+Standard deviation     70.31155 70.00488 69.51711
+Proportion of Variance  0.00001  0.00001  0.00001
+                          PC317    PC318    PC319
+Standard deviation     69.00771 68.18635 67.81623
+Proportion of Variance  0.00001  0.00001  0.00001
+                          PC320    PC321    PC322
+Standard deviation     67.21758 66.57085 65.70903
+Proportion of Variance  0.00001  0.00001  0.00001
+                          PC323    PC324    PC325
+Standard deviation     65.31024 64.87929 64.64111
+Proportion of Variance  0.00001  0.00001  0.00001
+                          PC326    PC327    PC328
+Standard deviation     63.63501 63.53094 62.96753
+Proportion of Variance  0.00001  0.00001  0.00001
+                          PC329    PC330    PC331
+Standard deviation     62.65648 61.91363 61.53435
+Proportion of Variance  0.00001  0.00001  0.00001
+                          PC332    PC333    PC334
+Standard deviation     60.93611 60.42706 60.07087
+Proportion of Variance  0.00001  0.00001  0.00001
+                          PC335    PC336    PC337
+Standard deviation     59.75301 58.72099 58.31689
+Proportion of Variance  0.00001  0.00001  0.00001
+                          PC338    PC339    PC340
+Standard deviation     57.55419 57.17927 57.02442
+Proportion of Variance  0.00001  0.00001  0.00001
+                          PC341    PC342    PC343
+Standard deviation     56.15124 55.82510 55.61503
+Proportion of Variance  0.00001  0.00001  0.00001
+                          PC344    PC345    PC346
+Standard deviation     54.70677 54.45775 54.10173
+Proportion of Variance  0.00001  0.00001  0.00001
+                          PC347    PC348    PC349
+Standard deviation     53.59208 53.51023 52.70602
+Proportion of Variance  0.00001  0.00001  0.00001
+                          PC350    PC351    PC352
+Standard deviation     52.45905 52.13934 51.53501
+Proportion of Variance  0.00001  0.00001  0.00001
+                          PC353    PC354    PC355
+Standard deviation     51.46228 50.59088 50.39764
+Proportion of Variance  0.00001  0.00001  0.00001
+                          PC356    PC357    PC358
+Standard deviation     49.87680 49.21808 48.64158
+Proportion of Variance  0.00001  0.00001  0.00001
+                          PC359    PC360    PC361
+Standard deviation     48.23493 47.14841 47.07348
+Proportion of Variance  0.00001  0.00001  0.00001
+                          PC362    PC363    PC364
+Standard deviation     46.39739 46.24089 45.92239
+Proportion of Variance  0.00001  0.00001  0.00001
+                          PC365    PC366    PC367
+Standard deviation     45.50900 44.99365 44.73741
+Proportion of Variance  0.00001  0.00001  0.00001
+                          PC368    PC369    PC370
+Standard deviation     44.24184 43.60232 43.49331
+Proportion of Variance  0.00001  0.00001  0.00001
+                          PC371   PC372   PC373
+Standard deviation     43.25498 42.1837 41.5573
+Proportion of Variance  0.00001  0.0000  0.0000
+                         PC374   PC375   PC376
+Standard deviation     41.2718 41.0421 40.7666
+Proportion of Variance  0.0000  0.0000  0.0000
+                         PC377   PC378   PC379
+Standard deviation     40.5748 40.1852 39.1002
+Proportion of Variance  0.0000  0.0000  0.0000
+                         PC380   PC381   PC382
+Standard deviation     38.8022 38.4970 37.8698
+Proportion of Variance  0.0000  0.0000  0.0000
+                         PC383   PC384   PC385
+Standard deviation     37.5027 37.0325 36.4712
+Proportion of Variance  0.0000  0.0000  0.0000
+                         PC386   PC387   PC388
+Standard deviation     35.9555 35.5027 35.2925
+Proportion of Variance  0.0000  0.0000  0.0000
+                         PC389   PC390   PC391
+Standard deviation     35.1318 34.8951 34.4085
+Proportion of Variance  0.0000  0.0000  0.0000
+                         PC392   PC393   PC394
+Standard deviation     34.0291 33.1124 32.7668
+Proportion of Variance  0.0000  0.0000  0.0000
+                         PC395   PC396   PC397
+Standard deviation     32.6856 32.5318 32.2340
+Proportion of Variance  0.0000  0.0000  0.0000
+                       PC398 PC399 PC400 PC401
+Standard deviation     31.06 30.95 30.14 30.11
+Proportion of Variance  0.00  0.00  0.00  0.00
+                       PC402 PC403 PC404 PC405
+Standard deviation     29.67 29.41 29.17 29.05
+Proportion of Variance  0.00  0.00  0.00  0.00
+                       PC406 PC407 PC408 PC409
+Standard deviation      28.3 27.96 27.13 26.57
+Proportion of Variance   0.0  0.00  0.00  0.00
+                       PC410 PC411 PC412 PC413
+Standard deviation     26.31 25.56 25.01 24.79
+Proportion of Variance  0.00  0.00  0.00  0.00
+                       PC414 PC415 PC416 PC417
+Standard deviation     24.47 24.18 23.65 22.46
+Proportion of Variance  0.00  0.00  0.00  0.00
+                       PC418 PC419 PC420 PC421
+Standard deviation     22.16 21.83 21.49 20.69
+Proportion of Variance  0.00  0.00  0.00  0.00
+                       PC422 PC423 PC424 PC425
+Standard deviation     20.13 19.68 19.52 19.16
+Proportion of Variance  0.00  0.00  0.00  0.00
+                       PC426 PC427 PC428 PC429
+Standard deviation     18.08 17.46 16.48 15.72
+Proportion of Variance  0.00  0.00  0.00  0.00
+                       PC430 PC431 PC432 PC433
+Standard deviation     14.86 13.76 12.76 8.932
+Proportion of Variance  0.00  0.00  0.00 0.000
+                       PC434 PC435 PC436 PC437
+Standard deviation     8.308 6.838 5.581 5.041
+Proportion of Variance 0.000 0.000 0.000 0.000
+                       PC438 PC439 PC440 PC441
+Standard deviation     4.744  4.12 3.621 1.746
+Proportion of Variance 0.000  0.00 0.000 0.000
+                        PC442   PC443     PC444
+Standard deviation     0.2882 0.03086 9.662e-09
+Proportion of Variance 0.0000 0.00000 0.000e+00
+                           PC445     PC446
+Standard deviation     1.795e-12 1.795e-12
+Proportion of Variance 0.000e+00 0.000e+00
+                           PC447
+Standard deviation     1.795e-12
+Proportion of Variance 0.000e+00
